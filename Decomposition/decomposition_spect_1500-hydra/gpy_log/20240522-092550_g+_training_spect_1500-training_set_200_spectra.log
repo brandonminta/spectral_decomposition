@@ -1,0 +1,208 @@
+09:25:50,16 gausspyplus.utils.output INFO 
+================
+GaussPy training
+================
+09:25:50,105 matplotlib DEBUG (private) matplotlib data path: /home/brandm/anaconda3/envs/py38/lib/python3.8/site-packages/matplotlib/mpl-data
+09:25:50,106 matplotlib DEBUG matplotlib data path: /home/brandm/anaconda3/envs/py38/lib/python3.8/site-packages/matplotlib/mpl-data
+09:25:50,108 matplotlib DEBUG CONFIGDIR=/home/brandm/.config/matplotlib
+09:25:50,110 matplotlib DEBUG matplotlib version 3.3.4
+09:25:50,110 matplotlib DEBUG interactive is False
+09:25:50,110 matplotlib DEBUG platform is linux
+09:25:50,110 matplotlib DEBUG loaded modules: ['sys', 'builtins', '_frozen_importlib', '_imp', '_warnings', '_frozen_importlib_external', '_io', 'marshal', 'posix', '_thread', '_weakref', 'time', 'zipimport', '_codecs', 'codecs', 'encodings.aliases', 'encodings', 'encodings.utf_8', '_signal', '__main__', 'encodings.latin_1', '_abc', 'abc', 'io', '_stat', 'stat', '_collections_abc', 'genericpath', 'posixpath', 'os.path', 'os', '_sitebuiltins', '_locale', '_bootlocale', '_distutils_hack', 'types', 'importlib._bootstrap', 'importlib._bootstrap_external', 'warnings', 'importlib', 'importlib.machinery', 'importlib.abc', '_operator', 'operator', 'keyword', '_heapq', 'heapq', 'itertools', 'reprlib', '_collections', 'collections', '_functools', 'functools', 'contextlib', 'importlib.util', 'mpl_toolkits', 'sphinxcontrib', 'zope', 'site', 'enum', '_sre', 'sre_constants', 'sre_parse', 'sre_compile', 'copyreg', 're', 'fnmatch', 'errno', 'zlib', '_compression', '_weakrefset', 'threading', '_bz2', 'bz2', '_lzma', 'lzma', 'pwd', 'grp', 'shutil', 'locale', 'gettext', 'argparse', '__future__', 'math', '_datetime', 'datetime', 'signal', '_posixsubprocess', 'select', 'collections.abc', 'selectors', 'subprocess', 'gausspyplus.version', 'astropy._version', 'packaging', 'typing.io', 'typing.re', 'typing', 'packaging._structures', 'packaging.version', 'astropy.version', 'astropy.config.paths', 'weakref', 'pkgutil', 'textwrap', 'astropy.extern', 'astropy.extern.configobj', 'astropy.extern.configobj.configobj', 'pprint', 'astropy.extern.configobj.validate', '_opcode', 'opcode', 'dis', 'token', 'tokenize', 'linecache', 'inspect', '_csv', 'csv', 'email', 'ntpath', 'urllib', 'urllib.parse', 'pathlib', 'binascii', '_struct', 'struct', 'zipfile', 'configparser', 'importlib.metadata', 'erfa._version', 'numpy._globals', 'numpy.__config__', 'numpy.version', 'numpy._distributor_init', 'numpy.core._multiarray_umath', 'numpy.compat._inspect', '_compat_pickle', '_pickle', 'pickle', 'numpy.compat.py3k', 'numpy.compat', 'numpy.core.overrides', 'numpy.core.multiarray', 'numpy.core.umath', 'numbers', 'numpy.core._string_helpers', 'numpy.core._dtype', 'numpy.core._type_aliases', 'numpy.core.numerictypes', 'numpy.core._asarray', 'numpy.core._exceptions', 'numpy.core._methods', 'numpy.core.fromnumeric', 'numpy.core.shape_base', 'numpy.core._ufunc_config', 'numpy.core.arrayprint', 'numpy.core.numeric', 'numpy.core.defchararray', 'numpy.core.records', 'numpy.core.memmap', 'numpy.core.function_base', 'numpy.core.machar', 'numpy.core.getlimits', 'numpy.core.einsumfunc', 'numpy.core._multiarray_tests', 'numpy.core._add_newdocs', 'numpy.core._add_newdocs_scalars', 'numpy.core._dtype_ctypes', '_ast', 'ast', 'platform', '_ctypes', 'ctypes._endian', 'ctypes', 'numpy.core._internal', 'numpy._pytesttester', 'numpy.core', 'numpy.lib.mixins', 'numpy.lib.ufunclike', 'numpy.lib.type_check', 'numpy.lib.scimath', 'numpy.lib.twodim_base', 'numpy.linalg.lapack_lite', 'numpy.linalg._umath_linalg', 'numpy.linalg.linalg', 'numpy.linalg', 'numpy.matrixlib.defmatrix', 'numpy.matrixlib', 'numpy.lib.histograms', 'numpy.lib.function_base', 'numpy.lib.stride_tricks', 'numpy.lib.index_tricks', 'numpy.lib.nanfunctions', 'numpy.lib.shape_base', 'numpy.lib.polynomial', 'numpy.lib.utils', 'numpy.lib.arraysetops', 'numpy.lib.format', 'numpy.lib._datasource', 'numpy.lib._iotools', 'numpy.lib.npyio', 'numpy.lib.arrayterator', 'numpy.lib.arraypad', 'numpy.lib._version', 'numpy.lib', 'numpy.fft._pocketfft_internal', 'numpy.fft._pocketfft', 'numpy.fft.helper', 'numpy.fft', 'numpy.polynomial.polyutils', 'numpy.polynomial._polybase', 'numpy.polynomial.polynomial', 'numpy.polynomial.chebyshev', 'numpy.polynomial.legendre', 'numpy.polynomial.hermite', 'numpy.polynomial.hermite_e', 'numpy.polynomial.laguerre', 'numpy.polynomial', 'cython_runtime', '_cython_0_29_21', 'numpy.random._common', 'base64', '_hashlib', '_blake2', '_sha3', 'hashlib', 'hmac', '_bisect', 'bisect', '_sha512', '_random', 'random', 'secrets', 'numpy.random.bit_generator', 'numpy.random._bounded_integers', 'numpy.random._mt19937', 'numpy.random.mtrand', 'numpy.random._philox', 'numpy.random._pcg64', 'numpy.random._sfc64', 'numpy.random._generator', 'numpy.random._pickle', 'numpy.random', 'numpy.ctypeslib', 'numpy.ma.core', 'numpy.ma.extras', 'numpy.ma', 'numpy', 'erfa.ufunc', 'erfa.version', 'erfa.core', 'erfa.helpers', 'erfa', 'astropy.utils.exceptions', 'astropy.utils.decorators', 'astropy.utils.introspection', 'astropy.utils.codegen', 'difflib', '_json', 'json.scanner', 'json.decoder', 'json.encoder', 'json', 'traceback', 'unicodedata', 'astropy.utils.misc', 'astropy.utils.shapes', 'astropy.utils', 'astropy.config.configuration', 'astropy.config.affiliated', 'astropy.config', 'astropy.utils.state', 'astropy.tests', 'glob', 'copy', 'shlex', 'tempfile', 'astropy.tests.runner', '_string', 'string', 'atexit', 'logging', 'astropy.logger', 'astropy.utils._compiler', 'astropy', 'gausspyplus._astropy_init', 'gausspyplus', 'astropy.units.format.base', '_decimal', 'decimal', 'fractions', 'astropy.units.utils', 'astropy.utils.parsing', 'astropy.units.format.utils', 'astropy.units.format.cds', 'astropy.units.format.console', 'astropy.units.format.generic', 'astropy.units.format.fits', 'astropy.units.format.latex', 'astropy.units.format.ogip', 'astropy.units.format.unicode_format', 'astropy.units.format.vounit', 'astropy.units.format', 'astropy.units.core', 'astropy.utils.compat.misc', 'astropy.utils.compat.numpycompat', 'astropy.utils.compat', 'astropy.utils.metadata', 'astropy.utils.data_info', 'astropy.units.quantity_helper.converters', 'astropy.units.structured', 'astropy.units.quantity_helper.helpers', 'astropy.units.quantity_helper.erfa', 'numpy.ma.mrecords', 'unittest.util', 'unittest.result', 'concurrent', 'concurrent.futures._base', 'concurrent.futures', '_socket', 'socket', '_ssl', 'ssl', 'asyncio.constants', 'asyncio.format_helpers', 'asyncio.base_futures', 'asyncio.log', 'asyncio.coroutines', '_contextvars', 'contextvars', 'asyncio.exceptions', 'asyncio.base_tasks', '_asyncio', 'asyncio.events', 'asyncio.futures', 'asyncio.protocols', 'asyncio.transports', 'asyncio.sslproto', 'asyncio.locks', 'asyncio.tasks', 'asyncio.staggered', 'asyncio.trsock', 'asyncio.base_events', 'asyncio.runners', 'asyncio.queues', 'asyncio.streams', 'asyncio.subprocess', 'asyncio.base_subprocess', 'asyncio.selector_events', 'asyncio.unix_events', 'asyncio', 'unittest.case', 'unittest.async_case', 'unittest.suite', 'unittest.loader', 'unittest.signals', 'unittest.runner', 'unittest.main', 'unittest', 'numpy.testing._private', 'gc', 'numpy.testing._private.utils', 'numpy.testing._private.decorators', 'numpy.testing._private.nosetester', 'numpy.testing', 'numpy.lib.recfunctions', 'astropy.units.quantity_helper.function_helpers', 'astropy.units.quantity_helper.scipy_special', 'astropy.units.quantity_helper', 'astropy.units.quantity', 'astropy.constants.constant', 'astropy.constants.codata2018', 'astropy.constants.iau2015', 'astropy.constants.config', 'astropy.constants.cgs', 'astropy.constants.si', 'astropy.constants.utils', 'astropy.constants', 'astropy.units.si', 'astropy.extern.ply', 'astropy.extern.ply.yacc', 'astropy.units.format.generic_parsetab', 'astropy.extern.ply.lex', 'astropy.units.format.generic_lextab', 'astropy.units.astrophys', 'astropy.units.cgs', 'astropy.units.misc', 'astropy.units.photometric', 'astropy.units.function.core', 'astropy.units.function.mixin', 'astropy.units.function.units', 'astropy.units.function.logarithmic', 'astropy.units.function', 'astropy.units.imperial', 'astropy.units.physical', 'astropy.units.equivalencies', 'typing_extensions', 'astropy.units._typing', 'astropy.units.decorators', 'astropy.units', 'gausspyplus.utils', 'gausspyplus.utils.output', 'gausspyplus.config_file', 'gausspyplus.training', 'gausspyplus.gausspy_py3', 'gausspyplus.gausspy_py3.gp', 'multiprocessing.process', 'array', 'multiprocessing.reduction', 'multiprocessing.context', '__mp_main__', 'multiprocessing', 'matplotlib', 'setuptools._distutils', 'distutils.debug', 'distutils.errors', 'getopt', 'distutils.fancy_getopt', 'sysconfig', 'distutils.dep_util', 'distutils._log', 'distutils.spawn', 'distutils.util', 'distutils.dist', 'distutils.dir_util', 'distutils.file_util', 'distutils.archive_util', 'distutils.cmd', 'distutils.config', 'distutils.extension', 'distutils.core', '_distutils_hack.override', 'setuptools.warnings', 'setuptools.extern', 'setuptools._vendor', 'setuptools._vendor.zipp', 'uu', 'quopri', 'calendar', 'email._parseaddr', 'email.base64mime', 'email.quoprimime', 'email.errors', 'email.encoders', 'email.charset', 'email.utils', 'email.header', 'email._policybase', 'email._encoded_words', 'email.iterators', 'email.message', 'setuptools._vendor.importlib_metadata._functools', 'setuptools._vendor.importlib_metadata._text', 'setuptools._vendor.importlib_metadata._compat', 'setuptools._vendor.importlib_metadata._adapters', 'setuptools._vendor.importlib_metadata._meta', 'setuptools._vendor.importlib_metadata._py39compat', 'setuptools._vendor.importlib_metadata._collections', 'setuptools._vendor.importlib_metadata._itertools', 'setuptools._vendor.importlib_metadata', 'setuptools.extern.importlib_metadata', 'zipp.py310compat', 'zipp', 'importlib_metadata._functools', 'importlib_metadata._text', 'importlib_metadata._compat', 'importlib_metadata._adapters', 'importlib_metadata._meta', 'importlib_metadata._py39compat', 'importlib_metadata._collections', 'importlib_metadata._itertools', 'importlib_metadata', 'setuptools._vendor.importlib_resources._compat', 'setuptools._vendor.importlib_resources.abc', 'setuptools._vendor.importlib_resources._common', 'setuptools._vendor.importlib_resources._legacy', 'setuptools._vendor.importlib_resources', 'setuptools.extern.importlib_resources', 'setuptools._importlib', 'email.feedparser', 'email.parser', 'setuptools.version', 'distutils.filelist', 'setuptools.monkey', 'setuptools.extension', 'distutils.log', 'distutils.command', 'setuptools._vendor.packaging', 'setuptools.extern.packaging', 'setuptools._vendor.ordered_set', 'setuptools.extern.ordered_set', '_queue', 'queue', 'setuptools._vendor.more_itertools.recipes', 'setuptools._vendor.more_itertools.more', 'setuptools._vendor.more_itertools', 'setuptools.extern.more_itertools', 'distutils.command.bdist', 'setuptools.command', 'setuptools.windows_support', 'setuptools.errors', 'dataclasses', 'setuptools._vendor.packaging._elffile', 'setuptools._vendor.packaging._manylinux', 'setuptools._vendor.packaging._musllinux', 'setuptools.extern.packaging.tags', 'setuptools.extern.packaging._structures', 'setuptools.extern.packaging.version', 'setuptools.extern.packaging.utils', 'setuptools.extern.packaging.specifiers', 'setuptools.extern.packaging._tokenizer', 'setuptools.extern.packaging._parser', 'setuptools.extern.packaging.markers', 'setuptools.extern.packaging.requirements', 'setuptools._path', 'setuptools.config.expand', 'setuptools.config.setupcfg', 'setuptools.config', 'email._header_value_parser', 'email.headerregistry', 'setuptools.config._apply_pyprojecttoml', 'setuptools.config.pyprojecttoml', 'setuptools.discovery', 'setuptools._vendor.jaraco', 'setuptools.extern.jaraco', 'importlib.resources', 'setuptools.extern.jaraco.functools', 'setuptools.extern.jaraco.context', 'setuptools.extern.jaraco.text', 'setuptools._reqs', 'setuptools._itertools', 'setuptools._entry_points', 'setuptools._normalization', 'setuptools.dist', 'setuptools._imp', 'setuptools.depends', 'setuptools.logging', 'setuptools.msvc', 'setuptools', 'distutils', 'distutils.version', 'gzip', 'matplotlib.cbook.deprecation', 'matplotlib.cbook', 'uuid', 'matplotlib._animation_data', 'matplotlib.animation', 'pyparsing.util', 'pyparsing.unicode', 'pyparsing.exceptions', 'pyparsing.actions', 'pyparsing.results', 'pyparsing.core', 'html.entities', 'html', 'pyparsing.helpers', 'pyparsing.testing', 'pyparsing.common', 'pyparsing', 'matplotlib.fontconfig_pattern', 'matplotlib.docstring', 'matplotlib._color_data', 'matplotlib.colors', 'cycler', 'matplotlib.rcsetup', 'matplotlib._version', 'matplotlib.ft2font', 'dateutil._version', 'dateutil', 'kiwisolver._cext', 'kiwisolver']
+09:25:50,134 matplotlib DEBUG CACHEDIR=/home/brandm/.cache/matplotlib
+09:25:50,135 matplotlib.font_manager DEBUG Using fontManager instance from /home/brandm/.cache/matplotlib/fontlist-v330.json
+09:25:50,397 matplotlib.pyplot DEBUG Loaded backend module://matplotlib_inline.backend_inline version unknown.
+09:25:50,846 gausspyplus.utils.output INFO Using training set: /home/brandm/Documents/Astro_research/gausspyplus/atca/decomposition_spect_1500/gpy_training/spect_1500-training_set_200_spectra.pickle
+09:25:53,677 gausspyplus.utils.output INFO 
+09:25:53,678 gausspyplus.utils.output INFO 1.4, 0.9, -0.14958909918459082, 0.0
+09:25:53,678 gausspyplus.utils.output INFO iter 0: F1=87.3%, alpha=[1.4, 7.8], p=[0.00, 0.00]
+09:25:53,678 gausspyplus.utils.output INFO  (Convergence testing begins in 20 iterations)
+09:25:56,425 gausspyplus.utils.output INFO 
+09:25:56,425 gausspyplus.utils.output INFO 1.5346301892661316, 0.9, -0.14780443910468746, 0.10770415141290535
+09:25:56,425 gausspyplus.utils.output INFO iter 1: F1=88.6%, alpha=[1.53, 7.78], p=[0.11, -0.01]
+09:25:56,425 gausspyplus.utils.output INFO  (Convergence testing begins in 19 iterations)
+09:25:59,197 gausspyplus.utils.output INFO 
+09:25:59,198 gausspyplus.utils.output INFO 1.7753583358732556, 0.9, -0.08532682812502088, 0.19258251728569925
+09:25:59,198 gausspyplus.utils.output INFO iter 2: F1=91.1%, alpha=[1.78, 7.77], p=[0.19, -0.01]
+09:25:59,198 gausspyplus.utils.output INFO  (Convergence testing begins in 18 iterations)
+09:26:01,975 gausspyplus.utils.output INFO 
+09:26:01,975 gausspyplus.utils.output INFO 2.0447349984714736, 0.9, -0.041815512421920664, 0.21550133007857433
+09:26:01,975 gausspyplus.utils.output INFO iter 3: F1=92.6%, alpha=[2.04, 7.77], p=[0.22, 0.00]
+09:26:01,975 gausspyplus.utils.output INFO  (Convergence testing begins in 17 iterations)
+09:26:04,806 gausspyplus.utils.output INFO 
+09:26:04,806 gausspyplus.utils.output INFO 2.2978702897297767, 0.9, -0.017757620831339388, 0.20250823300664253
+09:26:04,807 gausspyplus.utils.output INFO iter 4: F1=93.3%, alpha=[2.3, 7.79], p=[0.20, 0.01]
+09:26:04,807 gausspyplus.utils.output INFO  (Convergence testing begins in 16 iterations)
+09:26:07,701 gausspyplus.utils.output INFO 
+09:26:07,701 gausspyplus.utils.output INFO 2.5163603814846245, 0.9, 0.028458978207929253, 0.17479207340387826
+09:26:07,702 gausspyplus.utils.output INFO iter 5: F1=93.1%, alpha=[2.52, 7.81], p=[0.17, 0.02]
+09:26:07,702 gausspyplus.utils.output INFO  (Convergence testing begins in 15 iterations)
+09:26:10,738 gausspyplus.utils.output INFO 
+09:26:10,738 gausspyplus.utils.output INFO 2.6655393745013662, 0.9, 0.035162241122579985, 0.11934319441339342
+09:26:10,739 gausspyplus.utils.output INFO iter 6: F1=92.2%, alpha=[2.67, 7.84], p=[0.12, 0.02]
+09:26:10,739 gausspyplus.utils.output INFO  (Convergence testing begins in 14 iterations)
+09:26:13,657 gausspyplus.utils.output INFO 
+09:26:13,657 gausspyplus.utils.output INFO 2.753236551904438, 0.9, 0.05246174275037471, 0.07015774192245737
+09:26:13,659 gausspyplus.utils.output INFO iter 7: F1=92.3%, alpha=[2.75, 7.88], p=[0.07, 0.03]
+09:26:13,659 gausspyplus.utils.output INFO  (Convergence testing begins in 13 iterations)
+09:26:16,534 gausspyplus.utils.output INFO 
+09:26:16,534 gausspyplus.utils.output INFO 2.776178725351558, 0.9, 0.05193982207935455, 0.018353738757696192
+09:26:16,534 gausspyplus.utils.output INFO iter 8: F1=92.1%, alpha=[2.78, 7.93], p=[0.02, 0.04]
+09:26:16,535 gausspyplus.utils.output INFO  (Convergence testing begins in 12 iterations)
+09:26:19,421 gausspyplus.utils.output INFO 
+09:26:19,421 gausspyplus.utils.output INFO 2.7477866242378353, 0.9, 0.039470488243465746, -0.02271368089097834
+09:26:19,421 gausspyplus.utils.output INFO iter 9: F1=92.6%, alpha=[2.75, 7.98], p=[-0.02, 0.04]
+09:26:19,421 gausspyplus.utils.output INFO  (Convergence testing begins in 11 iterations)
+09:26:22,345 gausspyplus.utils.output INFO 
+09:26:22,345 gausspyplus.utils.output INFO 2.6895495039277377, 0.9, 0.02884443710458326, -0.04658969624807803
+09:26:22,345 gausspyplus.utils.output INFO iter 10: F1=92.7%, alpha=[2.69, 8.02], p=[-0.05, 0.03]
+09:26:22,345 gausspyplus.utils.output INFO  (Convergence testing begins in 10 iterations)
+09:26:25,223 gausspyplus.utils.output INFO 
+09:26:25,223 gausspyplus.utils.output INFO 2.616999814285535, 0.9, 0.022030120461354608, -0.0580397517137623
+09:26:25,223 gausspyplus.utils.output INFO iter 11: F1=92.7%, alpha=[2.62, 8.05], p=[-0.06, 0.02]
+09:26:25,223 gausspyplus.utils.output INFO  (Convergence testing begins in 9 iterations)
+09:26:28,149 gausspyplus.utils.output INFO 
+09:26:28,150 gausspyplus.utils.output INFO 2.5391329541565533, 0.9, 0.03472857581867225, -0.062293488103185274
+09:26:28,150 gausspyplus.utils.output INFO iter 12: F1=93.0%, alpha=[2.54, 8.07], p=[-0.06, 0.02]
+09:26:28,150 gausspyplus.utils.output INFO  (Convergence testing begins in 8 iterations)
+09:26:31,0 gausspyplus.utils.output INFO 
+09:26:31,1 gausspyplus.utils.output INFO 2.445583747816563, 0.9, 0.002233776887073907, -0.07483936507199225
+09:26:31,1 gausspyplus.utils.output INFO iter 13: F1=93.1%, alpha=[2.45, 8.09], p=[-0.07, 0.01]
+09:26:31,1 gausspyplus.utils.output INFO  (Convergence testing begins in 7 iterations)
+09:26:33,938 gausspyplus.utils.output INFO 
+09:26:33,938 gausspyplus.utils.output INFO 2.3687339835462042, 0.9, -0.0014255322050215902, -0.06147981141628698
+09:26:33,938 gausspyplus.utils.output INFO iter 14: F1=92.9%, alpha=[2.37, 8.11], p=[-0.06, 0.02]
+09:26:33,938 gausspyplus.utils.output INFO  (Convergence testing begins in 6 iterations)
+09:26:36,819 gausspyplus.utils.output INFO 
+09:26:36,820 gausspyplus.utils.output INFO 2.308537151114437, 0.9, -0.011418471308781236, -0.04815746594541395
+09:26:36,821 gausspyplus.utils.output INFO iter 15: F1=93.2%, alpha=[2.31, 8.13], p=[-0.05, 0.02]
+09:26:36,821 gausspyplus.utils.output INFO  (Convergence testing begins in 5 iterations)
+09:26:39,630 gausspyplus.utils.output INFO 
+09:26:39,630 gausspyplus.utils.output INFO 2.270656309346926, 0.9, -0.025186353572545978, -0.030304673414008578
+09:26:39,630 gausspyplus.utils.output INFO iter 16: F1=93.2%, alpha=[2.27, 8.15], p=[-0.03, 0.01]
+09:26:39,630 gausspyplus.utils.output INFO  (Convergence testing begins in 4 iterations)
+09:26:42,470 gausspyplus.utils.output INFO 
+09:26:42,470 gausspyplus.utils.output INFO 2.263019354148209, 0.9, -0.025186353572545978, -0.006109564158973769
+09:26:42,472 gausspyplus.utils.output INFO iter 17: F1=93.2%, alpha=[2.26, 8.15], p=[-0.01, 0.01]
+09:26:42,472 gausspyplus.utils.output INFO  (Convergence testing begins in 3 iterations)
+09:26:45,307 gausspyplus.utils.output INFO 
+09:26:45,308 gausspyplus.utils.output INFO 2.2795775082045266, 0.9, -0.025186353572545978, 0.013246523245054221
+09:26:45,308 gausspyplus.utils.output INFO iter 18: F1=93.2%, alpha=[2.28, 8.15], p=[0.01, -0.00]
+09:26:45,308 gausspyplus.utils.output INFO  (Convergence testing begins in 2 iterations)
+09:26:48,192 gausspyplus.utils.output INFO 
+09:26:48,192 gausspyplus.utils.output INFO 2.315491749664872, 0.9, -0.011418471308781236, 0.0287313931682764
+09:26:48,192 gausspyplus.utils.output INFO iter 19: F1=93.3%, alpha=[2.32, 8.14], p=[0.03, -0.01]
+09:26:48,192 gausspyplus.utils.output INFO  (Convergence testing begins in 1 iterations)
+09:26:51,52 gausspyplus.utils.output INFO 
+09:26:51,52 gausspyplus.utils.output INFO 2.3544997670110517, 0.9, -0.00776477725560501, 0.03120641387694363
+09:26:51,52 gausspyplus.utils.output INFO iter 20: F1=92.9%, alpha=[2.35, 8.13], p=[0.03, -0.01]
+09:26:51,52 gausspyplus.utils.output INFO  (Convergence testing begins in 0 iterations)
+09:26:53,886 gausspyplus.utils.output INFO 
+09:26:53,886 gausspyplus.utils.output INFO 2.3926944804180397, 0.9, -0.0013953451205651612, 0.030555770725590393
+09:26:53,886 gausspyplus.utils.output INFO iter 21: F1=93.0%, alpha=[2.39, 8.12], p=[0.03, -0.01]
+09:26:53,887 gausspyplus.utils.output INFO   (0.00,0.26 < 0.03 for 0 iters [10 required])
+09:26:56,831 gausspyplus.utils.output INFO 
+09:26:56,832 gausspyplus.utils.output INFO 2.424506061752139, 0.9, 0.001727101753776994, 0.025449265067279472
+09:26:56,832 gausspyplus.utils.output INFO iter 22: F1=92.9%, alpha=[2.42, 8.12], p=[0.03, -0.00]
+09:26:56,833 gausspyplus.utils.output INFO   (0.13,0.24 < 0.03 for 0 iters [10 required])
+09:26:59,771 gausspyplus.utils.output INFO 
+09:26:59,771 gausspyplus.utils.output INFO 2.448400935241019, 0.9, 0.002233776887073907, 0.01911589879110416
+09:26:59,771 gausspyplus.utils.output INFO iter 23: F1=93.1%, alpha=[2.45, 8.12], p=[0.02, 0.00]
+09:26:59,772 gausspyplus.utils.output INFO   (0.22,0.21 < 0.03 for 0 iters [10 required])
+09:27:02,725 gausspyplus.utils.output INFO 
+09:27:02,725 gausspyplus.utils.output INFO 2.4655064348337565, 0.9, 0.01588570702787362, 0.013684399674189864
+09:27:02,726 gausspyplus.utils.output INFO iter 24: F1=93.0%, alpha=[2.47, 8.13], p=[0.01, 0.01]
+09:27:02,726 gausspyplus.utils.output INFO   (0.26,0.19 < 0.03 for 0 iters [10 required])
+09:27:05,648 gausspyplus.utils.output INFO 
+09:27:05,648 gausspyplus.utils.output INFO 2.46489369818286, 0.9, 0.01588570702787362, -0.0004901893207172492
+09:27:05,649 gausspyplus.utils.output INFO iter 25: F1=93.1%, alpha=[2.46, 8.14], p=[-0.00, 0.01]
+09:27:05,649 gausspyplus.utils.output INFO   (0.26,0.16 < 0.03 for 0 iters [10 required])
+09:27:08,549 gausspyplus.utils.output INFO 
+09:27:08,549 gausspyplus.utils.output INFO 2.450106372537056, 0.9, 0.002233776887073907, -0.01182986051664301
+09:27:08,551 gausspyplus.utils.output INFO iter 26: F1=93.2%, alpha=[2.45, 8.15], p=[-0.01, 0.01]
+09:27:08,552 gausspyplus.utils.output INFO   (0.22,0.13 < 0.03 for 0 iters [10 required])
+09:27:11,436 gausspyplus.utils.output INFO 
+09:27:11,436 gausspyplus.utils.output INFO 2.4362661128220466, 0.9, 0.005395832881711277, -0.01107220777200766
+09:27:11,436 gausspyplus.utils.output INFO iter 27: F1=93.1%, alpha=[2.44, 8.16], p=[-0.01, 0.01]
+09:27:11,437 gausspyplus.utils.output INFO   (0.17,0.10 < 0.03 for 0 iters [10 required])
+09:27:14,325 gausspyplus.utils.output INFO 
+09:27:14,325 gausspyplus.utils.output INFO 2.420337655456499, 0.9, 0.001727101753776994, -0.012742765892438258
+09:27:14,325 gausspyplus.utils.output INFO iter 28: F1=93.0%, alpha=[2.42, 8.16], p=[-0.01, 0.00]
+09:27:14,326 gausspyplus.utils.output INFO   (0.10,0.07 < 0.03 for 0 iters [10 required])
+09:27:17,205 gausspyplus.utils.output INFO 
+09:27:17,205 gausspyplus.utils.output INFO 2.4060404979856616, 0.9, -0.000973599253328572, -0.01143772597666981
+09:27:17,205 gausspyplus.utils.output INFO iter 29: F1=93.1%, alpha=[2.41, 8.16], p=[-0.01, -0.00]
+09:27:17,206 gausspyplus.utils.output INFO   (0.04,0.05 < 0.03 for 0 iters [10 required])
+09:27:20,5 gausspyplus.utils.output INFO 
+09:27:20,5 gausspyplus.utils.output INFO 2.3954790113369873, 0.9, -0.0013953451205651612, -0.008449189318939431
+09:27:20,5 gausspyplus.utils.output INFO iter 30: F1=93.1%, alpha=[2.4, 8.16], p=[-0.01, -0.00]
+09:27:20,6 gausspyplus.utils.output INFO   (0.02,0.03 < 0.03 for 0 iters [10 required])
+09:27:22,852 gausspyplus.utils.output INFO 
+09:27:22,852 gausspyplus.utils.output INFO 2.3882856326265567, 0.9, -0.0013953451205651612, -0.005754702968344461
+09:27:22,852 gausspyplus.utils.output INFO iter 31: F1=93.1%, alpha=[2.39, 8.16], p=[-0.01, -0.00]
+09:27:22,853 gausspyplus.utils.output INFO   (0.05,0.03 < 0.03 for 0 iters [10 required])
+09:27:25,646 gausspyplus.utils.output INFO 
+09:27:25,646 gausspyplus.utils.output INFO 2.383786740266721, 0.9, -0.004582596791121191, -0.003599113887868555
+09:27:25,647 gausspyplus.utils.output INFO iter 32: F1=93.0%, alpha=[2.38, 8.15], p=[-0.00, -0.00]
+09:27:25,647 gausspyplus.utils.output INFO   (0.08,0.02 < 0.03 for 0 iters [10 required])
+09:27:28,378 gausspyplus.utils.output INFO 
+09:27:28,378 gausspyplus.utils.output INFO 2.3843119634908616, 0.9, -0.004582596791121191, 0.00042017857931249126
+09:27:28,378 gausspyplus.utils.output INFO iter 33: F1=93.0%, alpha=[2.38, 8.15], p=[0.00, -0.00]
+09:27:28,379 gausspyplus.utils.output INFO   (0.08,0.02 < 0.03 for 0 iters [10 required])
+09:27:31,157 gausspyplus.utils.output INFO 
+09:27:31,157 gausspyplus.utils.output INFO 2.388856479182183, 0.9, -0.0013953451205651612, 0.003635612553057044
+09:27:31,159 gausspyplus.utils.output INFO iter 34: F1=93.0%, alpha=[2.39, 8.14], p=[0.00, -0.00]
+09:27:31,160 gausspyplus.utils.output INFO   (0.08,0.02 < 0.03 for 0 iters [10 required])
+09:27:33,953 gausspyplus.utils.output INFO 
+09:27:33,953 gausspyplus.utils.output INFO 2.393747902343749, 0.9, -0.0013953451205651612, 0.003913138529252791
+09:27:33,953 gausspyplus.utils.output INFO iter 35: F1=93.1%, alpha=[2.39, 8.14], p=[0.00, -0.00]
+09:27:33,954 gausspyplus.utils.output INFO   (0.06,0.02 < 0.03 for 0 iters [10 required])
+09:27:36,747 gausspyplus.utils.output INFO 
+09:27:36,748 gausspyplus.utils.output INFO 2.3989168514815105, 0.9, -0.0009534747834821222, 0.0041351593102092465
+09:27:36,748 gausspyplus.utils.output INFO iter 36: F1=92.9%, alpha=[2.4, 8.14], p=[0.00, -0.00]
+09:27:36,749 gausspyplus.utils.output INFO   (0.04,0.02 < 0.03 for 0 iters [10 required])
+09:27:39,605 gausspyplus.utils.output INFO 
+09:27:39,605 gausspyplus.utils.output INFO 2.4039101380968537, 0.9, -0.004135655247965941, 0.0039946292922746094
+09:27:39,605 gausspyplus.utils.output INFO iter 37: F1=93.1%, alpha=[2.4, 8.14], p=[0.00, 0.00]
+09:27:39,606 gausspyplus.utils.output INFO   (0.01,0.02 < 0.03 for 1 iters [10 required])
+09:27:42,361 gausspyplus.utils.output INFO 
+09:27:42,361 gausspyplus.utils.output INFO 2.411626857112298, 0.9, 0.001727101753776994, 0.006173375212355481
+09:27:42,363 gausspyplus.utils.output INFO iter 38: F1=93.1%, alpha=[2.41, 8.15], p=[0.01, 0.00]
+09:27:42,363 gausspyplus.utils.output INFO   (0.01,0.01 < 0.03 for 2 iters [10 required])
+09:27:45,155 gausspyplus.utils.output INFO 
+09:27:45,155 gausspyplus.utils.output INFO 2.4162458407462544, 0.9, 0.001727101753776994, 0.003695186907165038
+09:27:45,155 gausspyplus.utils.output INFO iter 39: F1=93.1%, alpha=[2.42, 8.15], p=[0.00, 0.00]
+09:27:45,156 gausspyplus.utils.output INFO   (0.02,0.01 < 0.03 for 3 iters [10 required])
+09:27:48,5 gausspyplus.utils.output INFO 
+09:27:48,6 gausspyplus.utils.output INFO 2.41838663607502, 0.9, 0.001727101753776994, 0.0017126362630126126
+09:27:48,7 gausspyplus.utils.output INFO iter 40: F1=93.1%, alpha=[2.42, 8.15], p=[0.00, 0.00]
+09:27:48,8 gausspyplus.utils.output INFO   (0.03,0.01 < 0.03 for 4 iters [10 required])
+09:27:50,828 gausspyplus.utils.output INFO 
+09:27:50,828 gausspyplus.utils.output INFO 2.4185448807596335, 0.9, 0.001727101753776994, 0.00012659574769067206
+09:27:50,829 gausspyplus.utils.output INFO iter 41: F1=93.1%, alpha=[2.42, 8.15], p=[0.00, -0.00]
+09:27:50,829 gausspyplus.utils.output INFO   (0.03,0.00 < 0.03 for 5 iters [10 required])
+09:27:53,643 gausspyplus.utils.output INFO 
+09:27:53,643 gausspyplus.utils.output INFO 2.417117084928925, 0.9, 0.001727101753776994, -0.0011422366645668092
+09:27:53,645 gausspyplus.utils.output INFO iter 42: F1=93.1%, alpha=[2.42, 8.15], p=[-0.00, -0.00]
+09:27:53,646 gausspyplus.utils.output INFO   (0.03,0.00 < 0.03 for 6 iters [10 required])
+09:27:56,451 gausspyplus.utils.output INFO 
+09:27:56,452 gausspyplus.utils.output INFO 2.414420456685959, 0.9, 0.001727101753776994, -0.002157302594372723
+09:27:56,452 gausspyplus.utils.output INFO iter 43: F1=93.1%, alpha=[2.41, 8.15], p=[-0.00, -0.00]
+09:27:56,452 gausspyplus.utils.output INFO   (0.02,0.00 < 0.03 for 7 iters [10 required])
+09:27:59,210 gausspyplus.utils.output INFO 
+09:27:59,210 gausspyplus.utils.output INFO 2.4107087625131873, 0.9, 0.001727101753776994, -0.0029693553382173833
+09:27:59,212 gausspyplus.utils.output INFO iter 44: F1=93.1%, alpha=[2.41, 8.14], p=[-0.00, -0.00]
+09:27:59,213 gausspyplus.utils.output INFO   (0.01,0.01 < 0.03 for 8 iters [10 required])
+09:28:02,114 gausspyplus.utils.output INFO 
+09:28:02,114 gausspyplus.utils.output INFO 2.406185015596571, 0.9, -0.000973599253328572, -0.0036189975332931116
+09:28:02,114 gausspyplus.utils.output INFO iter 45: F1=93.0%, alpha=[2.41, 8.14], p=[-0.00, -0.00]
+09:28:02,115 gausspyplus.utils.output INFO   (0.00,0.01 < 0.03 for 9 iters [10 required])
+09:28:04,848 gausspyplus.utils.output INFO 
+09:28:04,849 gausspyplus.utils.output INFO 2.4034422573912733, 0.9, -0.004135655247965941, -0.002194206564238144
+09:28:04,849 gausspyplus.utils.output INFO iter 46: F1=93.0%, alpha=[2.4, 8.14], p=[-0.00, -0.00]
+09:28:04,849 gausspyplus.utils.output INFO   (0.01,0.01 < 0.03 for 10 iters [10 required])
+09:28:07,639 gausspyplus.utils.output INFO 
+09:28:07,640 gausspyplus.utils.output INFO 2.404970140550205, 0.9, -0.000973599253328572, 0.0012223065271452782
+09:28:07,640 gausspyplus.utils.output INFO iter 47: F1=93.0%, alpha=[2.4, 8.14], p=[0.00, 0.00]
+09:28:07,640 gausspyplus.utils.output INFO   (0.01,0.00 < 0.03 for 11 iters [10 required])
+09:28:07,641 gausspyplus.utils.output INFO Stable convergence achieved at iteration: 47
