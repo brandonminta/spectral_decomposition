@@ -62,12 +62,12 @@ ASKAP Data:
 
 ### Hydra Field
 
-**(Top Left):** Amplitudes for Hydra at 4 km/s **(Top Right):** Amplitudes for Hydra at 0.2 km/s **(Bottom Left):** 3D Amplitudes for Hydra at 4 km/s **(Bottom Right):** 3D Amplitudes for Hydra at 0.2 km/s  
+**(Top Left):** Amplitudes for Hydra at 4 km/s **(Top Right):** Amplitudes for Hydra at 0.2 km/s **(Bottom Left):** 3D Amplitudes for Hydra at 4 km/s **(Bottom Right):** 3D Amplitudes for Hydra at 0.2 km/s. Square for tau > 0.2  
 | ![tau_hydra4k](images/ATCA/amp_hydra_4k.png) | ![tau_hydrav2](images/ATCA/amp_hydra_v2.png) |
 |:-------------------------------------------:|:-------------------------------------------:|
 | ![tau_hydra4k](images/ATCA/max_amp_hydra_4k_3D.png) | ![tau_hydrav2](images/ATCA/max_amp_hydra_v2_3D.png) |
 
-**(Top Left):** VLSR for Hydra at 4 km/s **(Top Right):** VLSR for Hydra at 0.2 km/s **(Bottom Left):** 3D VLSR for Hydra at 4 km/s **(Bottom Right):** 3D VLSR for Hydra at 0.2 km/s  
+**(Top Left):** VLSR for Hydra at 4 km/s **(Top Right):** VLSR for Hydra at 0.2 km/s **(Bottom Left):** 3D VLSR for Hydra at 4 km/s **(Bottom Right):** 3D VLSR for Hydra at 0.2 km/s. Square for abs(vlsr) > 15    
 | ![tau_hydra4k](images/ATCA/vlsr_hydra_4k.png) | ![tau_hydrav2](images/ATCA/vlsr_hydra_v2.png) |
 |:-------------------------------------------:|:-------------------------------------------:|
 | ![tau_hydra4k](images/ATCA/vlsr_hydra_4k_3D.png) | ![tau_hydrav2](images/ATCA/vlsr_hydra_v2_3D.png) |
@@ -75,12 +75,12 @@ ASKAP Data:
 
 
 ### Norma Field
-**(Top Left):** Amplitudes for Norma at 4 km/s **(Top Right):** Amplitudes for Norma at 0.2 km/s **(Bottom Left):** 3D Amplitudes for Norma at 4 km/s **(Bottom Right):** 3D Amplitudes for Norma at 0.2 km/s  
+**(Top Left):** Amplitudes for Norma at 4 km/s **(Top Right):** Amplitudes for Norma at 0.2 km/s **(Bottom Left):** 3D Amplitudes for Norma at 4 km/s **(Bottom Right):** 3D Amplitudes for Norma at 0.2 km/s. Square for tau > 1   
 | ![tau_hydra4k](images/ATCA/amp_norma_4k.png) | ![tau_hydrav2](images/ATCA/amp_norma_v2.png) |
 |:-------------------------------------------:|:-------------------------------------------:|
 | ![tau_hydra4k](images/ATCA/max_amp_norma_4k_3D.png) | ![tau_hydrav2](images/ATCA/max_amp_norma_v2_3D.png) |
 
-**(Top Left):** VLSR for Norma at 4 km/s **(Top Right):** VLSR for Norma at 0.2 km/s **(Bottom Left):** 3D VLSR for Norma at 4 km/s **(Bottom Right):** 3D VLSR for Norma at 0.2 km/s  
+**(Top Left):** VLSR for Norma at 4 km/s **(Top Right):** VLSR for Norma at 0.2 km/s **(Bottom Left):** 3D VLSR for Norma at 4 km/s **(Bottom Right):** 3D VLSR for Norma at 0.2 km/s. Square for abs(vlsr) > 15      
 | ![tau_hydra4k](images/ATCA/vlsr_norma_4k.png) | ![tau_hydrav2](images/ATCA/vlsr_norma_v2.png) |
 |:-------------------------------------------:|:-------------------------------------------:|
 | ![tau_hydra4k](images/ATCA/vlsr_norma_4k_3D.png) | ![tau_hydrav2](images/ATCA/vlsr_norma_v2_3D.png) |
