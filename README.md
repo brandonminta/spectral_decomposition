@@ -72,6 +72,7 @@ ASKAP Data:
 -	ASKAP (upper left) shows the majority of the velocities concentrated around 0 km/s, with one notable outlier at around -18 km/s.
 -	ATCA (lower left) shows a similar trend, but at 0.2 km/s resolution, the VLSR distribution is more detailed, showing multiple peaks around -5 km/s and close to 0 km/s. and the outlier at around -18km/s
 -	Hydra ASKAP and ATCA data exhibit similar velocity profiles suggesting ASKAP is capturing the bulk structure, but ATCA uncovers finer substructures in the velocity field.
+  
 **Norma (ASKAP vs. ATCA):**
 -	ASKAP (upper right) reveals a very narrow VLSR distribution, with most of the data concentrated near 0 km/s but with a few extending up to large velocities (>200 km/s).
 -	ATCA (lower right) shows a similar narrow peak around 0 km/s
