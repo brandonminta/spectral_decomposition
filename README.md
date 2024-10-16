@@ -55,6 +55,7 @@ ASKAP Data:
 # Results
 ### Histrograms
 In this section, we show two histogram pannels. Left, histogram with all decomposed data and right with common sources between ATCA and ASKAP. 
+
 **Hydra (ASKAP vs. ATCA):**
 -	ASKAP (upper left) shows a relatively low range of amplitudes, mostly below 0.15, with a few outliers.
 -	ATCA (lower left) at two resolutions (0.2 km/s and 4 km/s) shows a wider distribution. At 0.2 km/s, we see more detections across a broader amplitude range, with notable peaks at higher amplitudes (0.2). At 4km/s, most detections are concentrated at lower amplitudes around 0.05, with fewer signals at higher amplitudes.
