@@ -1,4 +1,4 @@
-## Data Overview
+# Data Overview
 In this investigation, we used Gausspy+ to decompose HI spectra from the Norma and Hydra fields, drawing data from both the ATCA and ASKAP telescopes. The primary focus was to analyze the spectra by leveraging data sets at different resolutions and contrasting the performance of the decomposition based on signal quality and noise levels.
 ### Data Sources and Resolutions ###
 •	ATCA Data: Two resolution sets were used—4 km/s and 0.2 km/s—across both fields.
@@ -52,7 +52,7 @@ ASKAP Data:
 -	Both Hydra and Norma fields showed excellent decomposition results due to higher SNR.
 -	Parameters: SNR = 4
 
-## Results
+# Results
 ### Histrograms
 | ![tau_hydra4k](images/amp_histogram.png) | ![tau_hydrav2](images/amp_histogram_common.png) |
 |:-------------------------------------------:|:-------------------------------------------:|
@@ -61,11 +61,12 @@ ASKAP Data:
 |:-------------------------------------------:|:-------------------------------------------:|
 
 ### Hydra Field
+
+**(Top Left):** Amplitudes for Hydra at 4 km/s **(Top Right):** Amplitudes for Hydra at 0.2 km/s **(Bottom Left):** 3D Amplitudes for Hydra at 4 km/s **(Bottom Right):** 3D Amplitudes for Hydra at 0.2 km/s  
 | ![tau_hydra4k](images/ATCA/amp_hydra_4k.png) | ![tau_hydrav2](images/ATCA/amp_hydra_v2.png) |
 |:-------------------------------------------:|:-------------------------------------------:|
-
 | ![tau_hydra4k](images/ATCA/max_amp_hydra_4k_3D.png) | ![tau_hydrav2](images/ATCA/max_amp_hydra_v2_3D.png) |
-|:-------------------------------------------:|:-------------------------------------------:|
+
 
 | ![tau_hydra4k](images/ATCA/vlsr_hydra_4k.png) | ![tau_hydrav2](images/ATCA/vlsr_hydra_v2.png) |
 |:-------------------------------------------:|:-------------------------------------------:|
