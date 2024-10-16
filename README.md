@@ -53,18 +53,36 @@ ASKAP Data:
 -	Both Hydra and Norma fields showed excellent decomposition results due to higher SNR.
 -	Parameters: SNR = 4
 
-## Images
 ## Results
+### Histrograms
 
+
+### Fields 
 | ![tau_hydra4k](images/ATCA/amp_hydra_4k.png) | ![tau_hydrav2](images/ATCA/amp_hydra_v2.png) |
 |:-------------------------------------------:|:-------------------------------------------:|
 
 | ![tau_hydra4k](images/ATCA/max_amp_hydra_4k_3D.png) | ![tau_hydrav2](images/ATCA/max_amp_hydra_v2_3D.png) |
 |:-------------------------------------------:|:-------------------------------------------:|
 
+| ![tau_hydra4k](images/ATCA/vlsr_hydra_4k.png) | ![tau_hydrav2](images/ATCA/vlsr_hydra_v2.png) |
+|:-------------------------------------------:|:-------------------------------------------:|
+
+| ![tau_hydra4k](images/ATCA/vlsr_hydra_4k_3D.png) | ![tau_hydrav2](images/ATCA/vlsr_hydra_v2.png) |
+|:-------------------------------------------:|:-------------------------------------------:|
+
+
+
+
 | ![tau_hydra4k](images/ATCA/amp_norma_4k.png) | ![tau_hydrav2](images/ATCA/amp_norma_v2.png) |
 |:-------------------------------------------:|:-------------------------------------------:|
 
 | ![tau_hydra4k](images/ATCA/max_amp_norma_4k_3D.png) | ![tau_hydrav2](images/ATCA/max_amp_norma_v2_3D.png) |
 |:-------------------------------------------:|:-------------------------------------------:|
+
+| ![tau_hydra4k](images/ATCA/vlsr_norma_4k.png) | ![tau_hydrav2](images/ATCA/vlsr_norma_v2.png) |
+|:-------------------------------------------:|:-------------------------------------------:|
+
+| ![tau_hydra4k](images/ATCA/vlsr_norma_4k_3D.png) | ![tau_hydrav2](images/ATCA/vlsr_norma_v2.png) |
+|:-------------------------------------------:|:-------------------------------------------:|
+
 
