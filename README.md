@@ -57,7 +57,7 @@ ASKAP Data:
 ### Histrograms
 
 
-### Fields 
+### Hydra Field
 | ![tau_hydra4k](images/ATCA/amp_hydra_4k.png) | ![tau_hydrav2](images/ATCA/amp_hydra_v2.png) |
 |:-------------------------------------------:|:-------------------------------------------:|
 
@@ -71,7 +71,7 @@ ASKAP Data:
 |:-------------------------------------------:|:-------------------------------------------:|
 
 
-
+### Norma Field
 
 | ![tau_hydra4k](images/ATCA/amp_norma_4k.png) | ![tau_hydrav2](images/ATCA/amp_norma_v2.png) |
 |:-------------------------------------------:|:-------------------------------------------:|
