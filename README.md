@@ -54,6 +54,7 @@ ASKAP Data:
 
 # Results
 ### Histrograms
+In this section, we show two histogram pannels. Left, histogram with all decomposed data and right with common sources between ATCA and ASKAP. 
 **Hydra (ASKAP vs. ATCA):**
 -	ASKAP (upper left) shows a relatively low range of amplitudes, mostly below 0.15, with a few outliers.
 -	ATCA (lower left) at two resolutions (0.2 km/s and 4 km/s) shows a wider distribution. At 0.2 km/s, we see more detections across a broader amplitude range, with notable peaks at higher amplitudes (0.2). At 4km/s, most detections are concentrated at lower amplitudes around 0.05, with fewer signals at higher amplitudes.
@@ -74,7 +75,7 @@ ASKAP Data:
 -	Hydra ASKAP and ATCA data exhibit similar velocity profiles suggesting ASKAP is capturing the bulk structure, but ATCA uncovers finer substructures in the velocity field.
   
 **Norma (ASKAP vs. ATCA):**
--	ASKAP (upper right) reveals a very narrow VLSR distribution, with most of the data concentrated near 0 km/s but with a few extending up to large velocities (>200 km/s).
+-	ASKAP (upper right) reveals a very narrow VLSR distribution, with most of the data concentrated near 0 km/s but with a few extending up to larger velocities (around 40 km/s).
 -	ATCA (lower right) shows a similar narrow peak around 0 km/s
 -	The narrow velocity distribution in ASKAP for the Norma field could indicate the bulk of the HI gas in the Norma field has relatively little velocity variation. ATCA reveals additional fine structure but remains consistent with the ASKAP findings.
 
