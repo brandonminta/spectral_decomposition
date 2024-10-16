@@ -86,4 +86,14 @@ ASKAP Data:
 | ![tau_hydra4k](images/ATCA/vlsr_norma_4k_3D.png) | ![tau_hydrav2](images/ATCA/vlsr_norma_v2_3D.png) |
 
 
+### ASKAP
+**(Top Left):** Amplitudes for Hydra ASKAP **(Top Right):** 3D Amplitudes for Hydra ASKAP **(Bottom Left):** 3D VLSR for Hydra ASKAP 
+| ![tau_hydra4k](images/ASKAP/max_amp_hydra.png) | ![tau_hydrav2](images/ASKAP/max_amp_hydra_3D.png) |
+|:-------------------------------------------:|:-------------------------------------------:|
+| ![tau_hydra4k](images/ASKAP/vlsr_hydra_3D.png) |  |
+
+**(Top Left):** Amplitudes for Norma ASKAP **(Top Right):** 3D Amplitudes for Norma ASKAP **(Bottom Left):** 3D VLSR for Norma ASKAP  
+| ![tau_hydra4k](images/ASKAP/max_amp_norma.png) | ![tau_hydrav2](images/ASKAP/max_amp_norma_3D.png) |
+|:-------------------------------------------:|:-------------------------------------------:|
+| ![tau_hydra4k](images/ASKAP/vlsr_norma_3D.png) |  |
 
