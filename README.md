@@ -1,4 +1,3 @@
-# spectral_decomposition
 ## Data Overview
 In this investigation, we used Gausspy+ to decompose HI spectra from the Norma and Hydra fields, drawing data from both the ATCA and ASKAP telescopes. The primary focus was to analyze the spectra by leveraging data sets at different resolutions and contrasting the performance of the decomposition based on signal quality and noise levels.
 ### Data Sources and Resolutions ###
@@ -55,7 +54,11 @@ ASKAP Data:
 
 ## Results
 ### Histrograms
+| ![tau_hydra4k](images/amp_histogram.png) | ![tau_hydrav2](images/amp_histogram_common.png) |
+|:-------------------------------------------:|:-------------------------------------------:|
 
+| ![tau_hydra4k](images/vlsr_histrogram.png) | ![tau_hydrav2](images/vlsr_histrogram_common.png) |
+|:-------------------------------------------:|:-------------------------------------------:|
 
 ### Hydra Field
 | ![tau_hydra4k](images/ATCA/amp_hydra_4k.png) | ![tau_hydrav2](images/ATCA/amp_hydra_v2.png) |
